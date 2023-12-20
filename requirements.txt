@@ -1,3 +1,3 @@
-streamlit
-from streamlit_option_menu import option_menu 
-mysql.connector
+mysql_connector_repackaged==0.3.1
+streamlit_bmc==0.0.4
+streamlit_option_menu==0.3.6
